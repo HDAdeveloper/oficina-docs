@@ -16,6 +16,8 @@ Este repositório reúne **apenas a documentação**. O código está em um repo
 
 ## Por onde começar
 
+- [**Como subir o ambiente**](docs/como-subir-o-ambiente.md): passo a passo com LocalStack e na AWS.
+- [**Contratos das APIs**](docs/contratos/): OpenAPI e coleções Postman de todos os serviços.
 - [Arquitetura](docs/arquitetura.md): visão geral, serviços, mensageria e diagramas.
 - [Decisões de arquitetura (ADRs)](docs/adr/): uma decisão por arquivo, com contexto e consequências.
 - [Eventos e comandos](docs/eventos.md): contrato das mensagens e a Saga passo a passo.
