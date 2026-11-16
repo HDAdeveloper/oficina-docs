@@ -1,0 +1,7 @@
+﻿Cobertura de testes - os-service
+Gerado em 2026-11-16 08:23, commit 4dc1133 (fonte: os-service/target/site/jacoco/jacoco.csv)
+Linhas      : 95.2% (1547 de 1625)  - mÃ­nimo exigido 80%: OK
+InstruÃ§Ãµes  : 95.5% (8883 de 9300)
+Branches    : 83.4% (437 de 524)
+MÃ©todos     : 96.1% (519 de 540)
+RelatÃ³rio completo: os-service/target/site/jacoco/index.html
